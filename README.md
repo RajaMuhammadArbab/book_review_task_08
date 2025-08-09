@@ -84,5 +84,15 @@ python manage.py runserver
 python manage.py test
 ```
 
-## License
-This project is licensed under the MIT License.
+## Project Demo
+
+<img width="1380" height="576" alt="1" src="https://github.com/user-attachments/assets/75fc032f-9bd0-4cc9-b8d4-e1a419e8cb40" />
+<img width="1374" height="724" alt="3" src="https://github.com/user-attachments/assets/29f8b4d3-6a0d-45ee-9199-da8ba3adcefb" />
+<img width="1385" height="659" alt="4" src="https://github.com/user-attachments/assets/27af3626-6bfe-4992-ae5d-8b5a41bb621c" />
+<img width="1400" height="534" alt="5" src="https://github.com/user-attachments/assets/1e5ac432-134c-4e30-bb30-9bb69c2761a8" />
+<img width="1379" height="612" alt="6" src="https://github.com/user-attachments/assets/45bb571d-87d5-4480-bdab-9f40042916df" />
+<img width="1402" height="660" alt="7" src="https://github.com/user-attachments/assets/2f090f3d-8c04-4e4b-b5ad-3a22b8298312" />
+<img width="1381" height="696" alt="8" src="https://github.com/user-attachments/assets/f58f9720-2b4c-474f-960b-bff164ef8c67" />
+<img width="1394" height="562" alt="10" src="https://github.com/user-attachments/assets/a354b6fb-5fab-47e6-b9ff-c957f68ce108" />
+<img width="1400" height="425" alt="11" src="https://github.com/user-attachments/assets/83b8b942-7b39-451a-ba79-3cc577730d85" />
+
